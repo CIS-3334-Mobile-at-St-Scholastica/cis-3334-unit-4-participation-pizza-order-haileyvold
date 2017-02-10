@@ -4,6 +4,7 @@
     <string name="mediumpizza">MediumPizza</string>
     <string name="large_pizza">Large Pizza</string>
     <string-array name="toppings">
+        <item>No Toppings</item>
         <item>Pepperoni</item>
         <item>Sausage</item>
         <item>Chicken</item>
